@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shahratin/prescription/issues"
   },
-  "homepage": "https://github.com/shahratin/prescription#readme"
+  "homepage": "https://github.com/shahratin/prescription#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
